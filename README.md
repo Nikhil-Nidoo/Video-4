@@ -5,12 +5,13 @@ Welcome to my web development learning journey! 🚀 This repository is a daily 
 My goal is to commit code every day, practice new tags/concepts, and document exactly how they work. If you are a fellow student or beginner, feel free to explore, read my notes, and learn along with me!
 
 ---
+## 📅 Where You Get Daily Notes & Purpose of Daily Notes 
 
-## 📅 Daily Progress & Notes - 
-I update my daily notes in a separate "NOTE.md" under WEB-DEV-LEARNING-JOURNEY repo. So make sure to star this repo for daily update.  
-\
-Note - Under my NOTE.md I mention what I learn and some notes about that tags or particular thing at daily basis. 
----
+I update my daily notes in a separate "NOTE.md" file under WEB-DEV-LEARNING-JOURNEY repo. So make sure to star this repo for daily update. 
+
+**Note:** Under my NOTE.md file I mention what I learn and some notes about that tags or particular thing at daily basis. 
+
+--- 
 
 ## 🛠️ Tech Stack & Tools I'm Learning
 * **Languages:** HTML5, CSS3, JavaScript (Coming Soon!)
@@ -23,6 +24,3 @@ Note - Under my NOTE.md I mention what I learn and some notes about that tags or
 I built this repo not just for myself, but to connect with other students! 
 * **Spot a mistake?** Open an Issue or Pull Request—let's learn together!
 * **Want to follow along?** Star ⭐ this repository to show your support and track my journey.
-
----
-*“Consistency is the key to mastering code. One commit at a time.”* 💪
